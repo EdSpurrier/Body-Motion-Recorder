@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Object Recorder/Scenes/Object Recorder - Sample.unity
+  isLoaded: 1
+  isActive: 1
